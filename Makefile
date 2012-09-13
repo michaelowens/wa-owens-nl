@@ -3,5 +3,6 @@ all:
 	sass --watch sass:css
 
 install:
+	mkdir {src,js,sass,css}
 	npm install
 	gem install sass
