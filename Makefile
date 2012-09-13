@@ -3,5 +3,5 @@ all:
 	sass --watch sass:css
 
 install:
-	npm install coffee-script
+	npm install
 	gem install sass
