@@ -1,0 +1,3 @@
+{"ts":1347539129911,"silentsave":true,"restoring":false,"patch":[[]],"length":0}
+{"contributors":[],"silentsave":false,"ts":1347539207032,"patch":[[{"diffs":[[1,"compile:\n    coffee -bw -o ./js -c ./src &\n\tsass --watch sass:css\n\ninstall:\n    npm install coffee\n    gem install sass"]],"start1":0,"start2":0,"length1":0,"length2":119}]],"length":119,"saved":false}
+{"ts":1347539345108,"patch":[[{"diffs":[[0,"l coffee"],[1,"-script"],[0,"\n    gem"]],"start1":90,"start2":90,"length1":16,"length2":23}]],"length":126,"saved":false}
